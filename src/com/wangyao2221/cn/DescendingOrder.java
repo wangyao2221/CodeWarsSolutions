@@ -17,7 +17,4 @@ public class DescendingOrder {
         return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println(sortDesc(234));
-    }
 }

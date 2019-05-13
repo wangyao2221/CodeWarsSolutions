@@ -7,11 +7,6 @@ public class Square {
         else return false;
     }
 
-    public static void main(String[] args) {
-        System.out.println(isSquare(2));
-//        System.out.println(sqrt(-1));
-    }
-
     public static double sqrt(double n){
         double x = n;
         double err = 1e-15;
