@@ -5,7 +5,7 @@ public class Solution {
     public static String camelCase(String str) {
         // your code here
         String[] strArr = str.split(" ");
-        StringBuilder stringBuilder = new StringBuilder("");
+        StringBuilder stringBuilder = new StringBuilder();
 
         for (String s : strArr) {
             if (s.length() == 0) continue;;
