@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/PhoneExampleTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CodeWarsSolutions/com/wangyao2221/cn/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeWarsSolutions/com/wangyao2221/cn/Kata.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,23 +26,23 @@
     <session id="-1253761265">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="905" />
+          <entry key="java" value="1087" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="905" />
+          <entry key="JAVA" value="1087" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -51,15 +50,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/BinaryArrayToNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,11 +59,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="508">
+              <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/PhoneExampleTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -116,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            <state relative-caret-position="178">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -128,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding>
                 <element signature="e#160#161#0" expanded="true" />
                 <element signature="e#257#258#0" expanded="true" />
@@ -143,15 +151,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DescendingOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -188,7 +187,6 @@
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/MetroTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Metro.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/KataTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DescendingOrderTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/DescendingOrder.java" />
@@ -198,6 +196,8 @@
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/PhoneExampleTests.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java" />
       </list>
     </option>
   </component>
@@ -265,7 +265,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558017121319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558069860232" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -293,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SumSquaredDivisorsTest">
+  <component name="RunManager" selected="JUnit.PhoneExampleTests">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.Solution" />
       <module name="CodeWarsSolutions" />
@@ -320,6 +320,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneExampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWarsSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.PhoneExampleTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
@@ -330,20 +344,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.SolutionTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWarsSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.SquareTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -363,19 +363,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SquareTest" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="JUnit.SolutionTest" />
       <item itemvalue="Application.SumSquaredDivisors" />
       <item itemvalue="JUnit.SumSquaredDivisorsTest" />
+      <item itemvalue="JUnit.PhoneExampleTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneExampleTests" />
         <item itemvalue="JUnit.SumSquaredDivisorsTest" />
         <item itemvalue="Application.SumSquaredDivisors" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -446,25 +446,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558009582971</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="'SumSquaredDivisors'">
+      <created>1558017063830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558017063830</updated>
+    </task>
+    <task id="LOCAL-00009" summary="'SumSquaredDivisors'">
+      <created>1558017144148</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558017144148</updated>
+    </task>
+    <task id="LOCAL-00010" summary="'SumSquaredDivisors'">
+      <created>1558067479066</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558067479066</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Manual_container_configuration__BubbleSortTest - 2019.05.11 at 10h 26m 28s.xml">
-      <configuration name="Manual container configuration: BubbleSortTest" configurationId="ArquillianJUnit" />
-    </history-entry>
-    <history-entry file="MetroTest_test1 - 2019.05.13 at 23h 12m 45s.xml">
-      <configuration name="MetroTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KataTest_findShort - 2019.05.13 at 23h 18m 36s.xml">
-      <configuration name="KataTest.findShort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest - 2019.05.16 at 20h 16m 44s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolutionTest - 2019.05.16 at 20h 17m 25s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolutionTest - 2019.05.16 at 20h 18m 35s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
@@ -480,9 +486,24 @@
     <history-entry file="SumSquaredDivisorsTest - 2019.05.16 at 22h 30m 02s.xml">
       <configuration name="SumSquaredDivisorsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PhoneExampleTests - 2019.05.17 at 13h 07m 29s.xml">
+      <configuration name="PhoneExampleTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneExampleTests - 2019.05.17 at 13h 08m 46s.xml">
+      <configuration name="PhoneExampleTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneExampleTests - 2019.05.17 at 13h 09m 00s.xml">
+      <configuration name="PhoneExampleTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneExampleTests - 2019.05.17 at 13h 09m 19s.xml">
+      <configuration name="PhoneExampleTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhoneExampleTests - 2019.05.17 at 13h 09m 29s.xml">
+      <configuration name="PhoneExampleTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27484000" />
+    <option name="totallyTimeSpent" value="29790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -541,14 +562,15 @@
     <MESSAGE value="'Metro'" />
     <MESSAGE value="'Kata'" />
     <MESSAGE value="'camelCase'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'camelCase'" />
+    <MESSAGE value="'SumSquaredDivisors'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'SumSquaredDivisors'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java</url>
-          <line>33</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -645,24 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -691,17 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -709,10 +706,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="178">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/PhoneExampleTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="50" column="36" lean-forward="true" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
         </state>
       </provider>
     </entry>
