@@ -40,7 +40,6 @@ public class Kata {
     }
 
     public static String createPhoneNumber(int[] numbers) {
-        // Your code here!
         String numbersStr = Arrays.toString(numbers);
         numbersStr = numbersStr.replace(", ","");
         numbersStr = numbersStr.replace("[","");
