@@ -38,4 +38,17 @@ public class Kata {
         }
         return result;
     }
+
+    public static String createPhoneNumber(int[] numbers) {
+        String numbersStr = Arrays.toString(numbers);
+        numbersStr = numbersStr.replace(", ","");
+        numbersStr = numbersStr.replace("[","");
+        numbersStr = numbersStr.replace("]","");
+        StringBuilder stringBuilder = new StringBuilder(numbersStr);
+        stringBuilder.insert(6,"-");
+        stringBuilder.insert(3,") ");
+        stringBuilder.insert(0,"(");
+
+        return stringBuilder.toString();
+    }
 }
