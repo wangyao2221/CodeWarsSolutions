@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/MexicanWave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/MexicanWaveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/Decompose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DecomposeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,67 +24,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/RevRot.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TenMinWalk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DescendingOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/PerfectPower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Metro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Decompose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DecomposeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/MexicanWave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="418">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="261" column="20" selection-start-line="261" selection-start-column="20" selection-end-line="261" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MexicanWaveTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SolutionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="24" selection-start-line="24" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="352">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -130,6 +154,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/MexicanWaveTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/MexicanWave.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DecomposeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Decompose.java" />
       </list>
     </option>
   </component>
@@ -223,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MexicanWaveTest">
+  <component name="RunManager" selected="JUnit.DecomposeTest.test1">
     <configuration name="MexicanWave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.MexicanWave" />
       <module name="CodeWarsSolutions" />
@@ -233,6 +259,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecomposeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWarsSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.DecomposeTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -248,22 +290,6 @@
       <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.DescendingOrderTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KataTest.findShort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWarsSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.KataTest" />
-      <option name="METHOD_NAME" value="findShort" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -299,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.KataTest.findShort" />
+      <item itemvalue="Application.MexicanWave" />
       <item itemvalue="JUnit.DescendingOrderTest" />
       <item itemvalue="JUnit.SquareTest" />
       <item itemvalue="JUnit.MexicanWaveTest" />
-      <item itemvalue="Application.MexicanWave" />
+      <item itemvalue="JUnit.DecomposeTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DecomposeTest.test1" />
         <item itemvalue="JUnit.MexicanWaveTest" />
         <item itemvalue="Application.MexicanWave" />
         <item itemvalue="JUnit.SquareTest" />
         <item itemvalue="JUnit.DescendingOrderTest" />
-        <item itemvalue="JUnit.KataTest.findShort" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +359,8 @@
       <workItem from="1557541494503" duration="1578000" />
       <workItem from="1557759615572" duration="1339000" />
       <workItem from="1558194882691" duration="230000" />
-      <workItem from="1558253700431" duration="2959000" />
+      <workItem from="1558253700431" duration="4036000" />
+      <workItem from="1558707550125" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1557412449095</created>
@@ -391,43 +418,50 @@
       <option name="project" value="LOCAL" />
       <updated>1558195061362</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="'MexicanWave'">
+      <created>1558256973694</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558256973694</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 33m 10s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 33m 50s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 34m 20s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 35m 57s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 36m 44s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 36m 56s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 39m 25s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 39m 48s.xml">
-      <configuration name="MexicanWaveTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 43m 42s.xml">
       <configuration name="MexicanWaveTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MexicanWaveTest - 2019.05.19 at 16h 52m 20s.xml">
       <configuration name="MexicanWaveTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MexicanWaveTest - 2019.05.24 at 22h 37m 26s.xml">
+      <configuration name="MexicanWaveTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 37m 28s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 38m 43s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 39m 41s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 40m 37s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 42m 17s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 42m 34s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DecomposeTest_test1 - 2019.05.24 at 22h 42m 54s.xml">
+      <configuration name="DecomposeTest.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27155000" />
+    <option name="totallyTimeSpent" value="29706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,7 +476,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29060403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2946309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,15 +485,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3286517" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8624161" visible="true" weight="0.3272472" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.86174494" visible="true" weight="0.3272472" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286517" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49798658" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49731544" weight="0.15449437" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1375839" side_tool="true" visible="true" weight="0.3272472" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.13825503" side_tool="true" visible="true" weight="0.3272472" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3286517" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -488,7 +522,8 @@
     <MESSAGE value="'RevRot'" />
     <MESSAGE value="'Add .gitignore'" />
     <MESSAGE value="'Remove out folder'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'Remove out folder'" />
+    <MESSAGE value="'MexicanWave'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'MexicanWave'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/Model.java" />
@@ -549,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Metro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/KataTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -563,31 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DescendingOrderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DescendingOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -605,10 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/RevRot.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="83">
+          <caret line="848" column="33" selection-start-line="848" selection-start-column="33" selection-end-line="848" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -619,10 +626,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="24" selection-start-line="24" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="5104">
+          <caret line="261" column="20" selection-start-line="261" selection-start-column="20" selection-end-line="261" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MexicanWaveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,34 +650,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MexicanWaveTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/AbstractStringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/RevRot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="848" column="33" selection-start-line="848" selection-start-column="33" selection-end-line="848" selection-end-column="33" />
+        <state relative-caret-position="330">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/StringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SumSquaredDivisors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="261" column="20" selection-start-line="261" selection-start-column="20" selection-end-line="261" selection-end-column="20" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TenMinWalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/MexicanWave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DescendingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/PerfectPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Metro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DecomposeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Decompose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
