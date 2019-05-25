@@ -3,7 +3,16 @@ package com.wangyao2221.cn;
 // If no valid solution exists return null
 public class Decompose {
 
-    public String decompose(long n) {
+    /**
+     * 有错误
+     * n = 50
+     * Expected :1 3 5 8 49
+     * Actual   :14 48
+     *
+     * @param n
+     * @return
+     */
+    public String decomposeErr(long n) {
         // 第一层循环的遍历作为一组数据的最大值
         for (long i = n - 1; i > 1; i--) {
             long squareRem = n * n; // n^2
@@ -24,6 +33,41 @@ public class Decompose {
                 }
             }
             System.out.println();
+        }
+
+        return null;
+    }
+
+    public String decompose(long n) {
+        String result = null;
+
+        for (long i = n - 1; i > 1; i--) {
+            long square = n * n;
+            result = recurseDecompose(i, square);
+            if (result != null) break;
+        }
+
+        return result;
+    }
+
+    public static String recurseDecompose(long i, long rem) {
+        if (i * i == rem) {
+            return i + "";
+        } else if (i * i < rem) {
+            rem = rem - i * i;
+
+            for (long j = i - 1; j > 0; j--) {
+                String tmp = recurseDecompose(j, rem);
+
+                if (tmp != null) {
+                    System.out.println(tmp + " " + i);
+                    return tmp + " " + i;
+                } else {
+                    continue;
+                }
+            }
+        } else {
+            return null;
         }
 
         return null;
