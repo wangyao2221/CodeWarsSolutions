@@ -5,14 +5,16 @@ public class TenMinWalk {
     // Insert brilliant code here
     if (walk.length != 10) return false;
 
-    int sum = 0;
+    int x = 0;
+    int y = 0;
+
     for (char c : walk) {
-      if (c == 'n') sum += 1;
-      else if (c == 's') sum -= 1;
-      else if (c == 'w') sum += 2;
-      else if (c == 'e') sum -= 2;
+      if (c == 'n') x++;
+      else if (c == 's') x--;
+      else if (c == 'w') y++;
+      else if (c == 'e') y--;
     }
 
-    return sum == 0 ? true : false;
+    return x == 0 && y == 0 ? true : false;
   }
 }

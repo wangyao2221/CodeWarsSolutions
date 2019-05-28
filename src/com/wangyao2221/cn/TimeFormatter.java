@@ -4,7 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class TimeFormatter {
-    
     public static String formatDuration(int seconds) {
         // your code goes here
         if (seconds == 0) return "now";

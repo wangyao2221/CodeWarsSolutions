@@ -15,4 +15,10 @@ public class KataTest {
         assertEquals(3, Kata.findShort("turns out random test cases are easier than writing out basic ones"));
     }
 
+    @Test
+    public void sampleTest() {
+        assertEquals("128.114.17.104", Kata.longToIP(2154959208L));
+        assertEquals("0.0.0.0", Kata.longToIP(0));
+        assertEquals("128.32.10.1", Kata.longToIP(2149583361L));
+    }
 }
