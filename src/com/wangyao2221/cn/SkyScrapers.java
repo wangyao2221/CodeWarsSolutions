@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-//https://www.codewars.com/kata/5671d975d81d6c1c87000022/train/java
+//https://www.codewars.com/kata/5671d975d81d6c1c87000022/train/java 以后想到更好地思路再做
 public class SkyScrapers {
     static List<int[]> orders = new ArrayList<>();
     static List<int[]>[] ordersClassify = new ArrayList[4];
@@ -97,15 +97,6 @@ public class SkyScrapers {
                 }
             }
         }
-
-//        for (List<int[]> ints : ordersClassify) {
-//            for (int[] anInt : ints) {
-//                for (int i : anInt) {
-//                    System.out.print(i + " ");
-//                }
-//                System.out.println();
-//            }
-//        }
     }
 
     static void permutate(int[] origin, int begin) {
@@ -126,5 +117,16 @@ public class SkyScrapers {
         int tmp = data[left];
         data[left] = data[right];
         data[right] = tmp;
+    }
+
+    public static boolean check(int[] clues,int[] result){
+        return false;
+    }
+
+    public static boolean checkOne(int[] arr,int head,int tail){
+        for (int i = 0; i < 4; i++) {
+
+        }
+        return false;
     }
 }
