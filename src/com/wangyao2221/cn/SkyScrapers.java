@@ -9,37 +9,37 @@ import java.util.Map;
 public class SkyScrapers {
     static List<int[]> orders = new ArrayList<>();
     static List<int[]>[] ordersClassify = new ArrayList[4];
-    static Map<Integer,Integer> map = new HashMap<Integer, Integer>(){
+    static Map<Integer, Integer> map = new HashMap<Integer, Integer>() {
         {
-            put(0,0);
-            put(1,1);
-            put(2,2);
-            put(3,3);
-            put(4,3);
-            put(5,7);
-            put(6,11);
-            put(7,15);
-            put(8,15);
-            put(9,14);
-            put(10,13);
-            put(11,12);
-            put(12,12);
-            put(13,8);
-            put(14,4);
-            put(15,0);
+            put(0, 0);
+            put(1, 1);
+            put(2, 2);
+            put(3, 3);
+            put(4, 3);
+            put(5, 7);
+            put(6, 11);
+            put(7, 15);
+            put(8, 15);
+            put(9, 14);
+            put(10, 13);
+            put(11, 12);
+            put(12, 12);
+            put(13, 8);
+            put(14, 4);
+            put(15, 0);
         }
     };
 
     public static void main(String[] args) {
         int clues[][] = {
-                { 2, 2, 1, 3,
+                {2, 2, 1, 3,
                         2, 2, 3, 1,
                         1, 2, 2, 3,
-                        3, 2, 1, 3 },
-                { 0, 0, 1, 2,
+                        3, 2, 1, 3},
+                {0, 0, 1, 2,
                         0, 2, 0, 0,
                         0, 3, 0, 0,
-                        0, 1, 0, 0 }
+                        0, 1, 0, 0}
         };
         solvePuzzle(clues[0]);
 
@@ -60,7 +60,7 @@ public class SkyScrapers {
 
         permutate(origin, 0);
         genOrdersClassify();
-        findFourPosition(clues,result);
+        findFourPosition(clues, result);
 
         while (true) {
             break;
@@ -69,7 +69,7 @@ public class SkyScrapers {
         return new int[4][4];
     }
 
-    static void findFourPosition(int[] clues,int[][] result){
+    static void findFourPosition(int[] clues, int[][] result) {
         for (int i = 0; i < clues.length; i++) {
             if (clues[i] == 1) {
                 int index = map.get(i);
@@ -85,14 +85,14 @@ public class SkyScrapers {
         }
     }
 
-    static void genOrdersClassify(){
+    static void genOrdersClassify() {
         for (int i = 0; i < ordersClassify.length; i++) {
             ordersClassify[i] = new ArrayList<>();
         }
 
         for (int[] order : orders) {
             for (int i = 0; i < order.length; i++) {
-                if (order[i] == 4){
+                if (order[i] == 4) {
                     ordersClassify[i].add(order);
                 }
             }

@@ -41,5 +41,5 @@ public class SolutionTest {
     public void testEmptyString() {
         assertEquals("", Solution.camelCase(""));
     }
-    
+
 }
