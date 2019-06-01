@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/KataSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/BinomialExpansionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DigPowTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +24,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DigPow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+            <state relative-caret-position="242">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/KataSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2036">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3198#3199#0" expanded="true" />
-                <element signature="e#3226#3227#0" expanded="true" />
+                <element signature="e#2175#2176#0" expanded="true" />
+                <element signature="e#2199#2200#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/CountingDuplicates.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/ExampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="308">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/BinomialExpansionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="506">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -70,36 +92,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/CountingDuplicatesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="220">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TenMinWalk.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TimeFormatter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,13 +194,16 @@
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/CountingDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/CountingDuplicates.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DigPowTest.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/DigPow.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/BinomialExpansionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/KataSolution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="600" />
-    <option name="y" value="105" />
-    <option name="width" value="975" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -214,7 +214,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
+              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
+              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
+              <item name="com.wangyao2221.cn" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -256,48 +298,6 @@
               <item name="wangyao2221" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="cn" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
-              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
-              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
-              <item name="com.wangyao2221.cn" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeWarsSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeWarsSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -346,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SkyScrapers">
+  <component name="RunManager" selected="Application.KataSolution">
     <configuration name="CountingDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.CountingDuplicates" />
       <module name="CodeWarsSolutions" />
@@ -360,12 +360,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.MainTest" />
+    <configuration name="KataSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.KataSolution" />
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
+          <option name="PATTERN" value="com.wangyao2221.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,7 +386,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DigPowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
@@ -395,13 +395,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.CountingDuplicatesTest" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.DigPowTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DigPowTest.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
@@ -410,26 +410,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.ExampleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.DigPowTest" />
+      <option name="METHOD_NAME" value="Test2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.SkyScrapers" />
-      <item itemvalue="Application.MainTest" />
-      <item itemvalue="JUnit.ExampleTest" />
-      <item itemvalue="JUnit.CountingDuplicatesTest" />
       <item itemvalue="Application.CountingDuplicates" />
+      <item itemvalue="JUnit.DigPowTest" />
+      <item itemvalue="JUnit.DigPowTest.Test2" />
+      <item itemvalue="Application.KataSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KataSolution" />
+        <item itemvalue="JUnit.DigPowTest.Test2" />
+        <item itemvalue="JUnit.DigPowTest" />
         <item itemvalue="Application.SkyScrapers" />
         <item itemvalue="Application.CountingDuplicates" />
-        <item itemvalue="JUnit.CountingDuplicatesTest" />
-        <item itemvalue="Application.MainTest" />
-        <item itemvalue="JUnit.ExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +462,8 @@
       <workItem from="1559020977154" duration="10062000" />
       <workItem from="1559138719236" duration="2813000" />
       <workItem from="1559230097274" duration="1940000" />
-      <workItem from="1559303784973" duration="5275000" />
+      <workItem from="1559303784973" duration="6645000" />
+      <workItem from="1559390356614" duration="6170000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1557412449095</created>
@@ -610,28 +612,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559307595882</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="'SkyScraper TODO'">
+      <created>1559313338471</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1559313338471</updated>
+    </task>
+    <task id="LOCAL-00023" summary="'DigPow'">
+      <created>1559314606526</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1559314606526</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TimeFormatterTest - 2019.05.26 at 22h 06m 08s.xml">
-      <configuration name="TimeFormatterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeFormatterTest - 2019.05.26 at 22h 08m 26s.xml">
-      <configuration name="TimeFormatterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimeFormatterTest - 2019.05.26 at 22h 08m 57s.xml">
-      <configuration name="TimeFormatterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KataTest_sampleTest - 2019.05.27 at 19h 30m 18s.xml">
-      <configuration name="KataTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KataTest_sampleTest - 2019.05.27 at 19h 31m 06s.xml">
-      <configuration name="KataTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KataTest_sampleTest - 2019.05.27 at 20h 03m 57s.xml">
-      <configuration name="KataTest.sampleTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExampleTest - 2019.05.28 at 23h 43m 01s.xml">
       <configuration name="ExampleTest" configurationId="JUnit" />
     </history-entry>
@@ -644,9 +642,27 @@
     <history-entry file="CountingDuplicatesTest - 2019.05.31 at 20h 35m 46s.xml">
       <configuration name="CountingDuplicatesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DigPowTest - 2019.05.31 at 22h 48m 54s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigPowTest - 2019.05.31 at 22h 49m 58s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigPowTest - 2019.05.31 at 22h 53m 29s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigPowTest - 2019.05.31 at 22h 53m 57s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigPowTest_Test2 - 2019.05.31 at 22h 55m 30s.xml">
+      <configuration name="DigPowTest.Test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DigPowTest_Test2 - 2019.05.31 at 22h 55m 39s.xml">
+      <configuration name="DigPowTest.Test2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83747000" />
+    <option name="totallyTimeSpent" value="91287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +677,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26912752" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2080537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -670,15 +686,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3286517" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8604027" visible="true" weight="0.05758427" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.40730336" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6583893" visible="true" weight="0.2977528" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798658" weight="0.40730336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286517" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49731544" weight="0.15449437" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.13959731" side_tool="true" weight="0.38202247" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.34161073" side_tool="true" visible="true" weight="0.2977528" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4986577" weight="0.3286517" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -718,7 +734,9 @@
     <MESSAGE value="'Fix TenMinWalk'" />
     <MESSAGE value="'4 by 4 SkyScrapers ... hard'" />
     <MESSAGE value="'CountingDuplicates'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'CountingDuplicates'" />
+    <MESSAGE value="'SkyScraper TODO'" />
+    <MESSAGE value="'DigPow'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'DigPow'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeWarsSolutions$DecomposeTest_test3.ic" NAME="DecomposeTest.test3 Coverage Results" MODIFIED="1558796141399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -726,10 +744,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/Simulator.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/Plan.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/Global.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/Trace.java" />
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/CounterExample.java" />
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/AnalysisResult.java" />
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/Frame.java" />
@@ -937,16 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/ExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1452">
@@ -984,6 +988,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DigPowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/CountingDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/CountingDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/permutation_combinaton/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1010,61 +1067,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DigPow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/ExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/CountingDuplicatesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="308">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/CountingDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/BinomialExpansionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/KataSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+        <state relative-caret-position="2036">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3198#3199#0" expanded="true" />
-            <element signature="e#3226#3227#0" expanded="true" />
+            <element signature="e#2175#2176#0" expanded="true" />
+            <element signature="e#2199#2200#0" expanded="true" />
           </folding>
         </state>
       </provider>
