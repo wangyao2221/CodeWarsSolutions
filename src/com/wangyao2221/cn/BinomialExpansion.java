@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class KataSolution {
+public class BinomialExpansion {
 
     public static String expand(String expr) {
         StringBuilder stringBuilder = new StringBuilder();
