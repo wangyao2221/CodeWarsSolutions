@@ -16,13 +16,18 @@ public class KataSolution {
                 .replace(")", "");
 
         List<ExprItem> originExpr = parseExpr(exprStr);
+
+        for (int i = 0; i < originExpr.size(); i++) {
+            System.out.println(originExpr.get(i).toString());
+        }
+
         List<ExprItem> result = calc(originExpr, power);
 
-        for (int i = 0; i < result.size();i++) {
+        for (int i = 0; i < result.size(); i++) {
             ExprItem item = result.get(i);
-            if (i > 0 && item.a > 0){
+            if (i > 0 && item.a > 0) {
                 stringBuilder.append("+").append(item);
-            }else {
+            } else {
                 stringBuilder.append(item);
             }
         }
@@ -35,6 +40,7 @@ public class KataSolution {
         List<ExprItem> result = new ArrayList<>();
         int flag = 1;
         long num = 0;
+        int numCount = 0;
 
         for (int i = 0; i < expr.length(); i++) {
             char ch = expr.charAt(i);
@@ -44,33 +50,41 @@ public class KataSolution {
                 flag = -1;
             } else if (isInteger(ch)) {
                 num = num * 10 + (ch - '0');
+                numCount++;
                 if (i + 1 == expr.length()
                         || expr.charAt(i + 1) == '+'
                         || expr.charAt(i + 1) == '-') {
-                    long a = flag * (num == 0 ? 1 : num);
-                    result.add(new ExprItem(a, ch,0));
+                    if (num == 0) continue;
+                    result.add(new ExprItem(num * flag, ch, 0));
+                    numCount = 0;
                     num = 0;
                 }
             } else {
-                long a = flag * (num == 0 ? 1 : num);
-                ExprItem item = new ExprItem(a, ch,1);
+                ExprItem item = null;
+                if (numCount == 0) {
+                    item = new ExprItem(1 * flag, ch, 1);
+                } else {
+                    if (num == 0) continue;
+                    item = new ExprItem(num * flag, ch, 1);
+                }
+                result.add(item);
                 flag = 1;
                 num = 0;
-                result.add(item);
+                numCount = 0;
             }
         }
         return result;
     }
 
     public static boolean isInteger(char ch) {
-        if (ch > '0' && ch < '9') return true;
+        if (ch >= '0' && ch <= '9') return true;
         else return false;
     }
 
     public static List<ExprItem> calc(List<ExprItem> expr, int power) {
         if (power == 0) return new ArrayList<ExprItem>() {
             {
-                add(new ExprItem(1, ' ',0));
+                add(new ExprItem(1, ' ', 0));
             }
         };
 
@@ -88,16 +102,15 @@ public class KataSolution {
             for (ExprItem item2 : expr2) {
                 long a = item1.a * item2.a;
                 int power = item1.power + item2.power;
-                result.add(new ExprItem(a, item1.var,power));
+                result.add(new ExprItem(a, item1.var, power));
             }
         }
 
-		sortAndCombinExpr(result);
+        sortAndCombinExpr(result);
 
         return result;
     }
 
-    // TODO 先将表达式按power排序，然后合并同次幂的项，最后需要写成字符串
     public static void sortAndCombinExpr(List<ExprItem> expr) {
         expr.sort(new Comparator<ExprItem>() {
             @Override
@@ -109,14 +122,16 @@ public class KataSolution {
         });
 
         for (int i = 0; i < expr.size(); ) {
-            if (i + 1 < expr.size()){
-                if (expr.get(i).power == expr.get(i + 1).power){
+            if (expr.get(i).a == 0) expr.remove(i);
+
+            if (i + 1 < expr.size()) {
+                if (expr.get(i).power == expr.get(i + 1).power) {
                     expr.get(i).a = expr.get(i).a + expr.get(i + 1).a;
                     expr.remove(i + 1);
-                }else {
+                } else {
                     i++;
                 }
-            }else {
+            } else {
                 i++;
             }
         }
@@ -127,7 +142,7 @@ public class KataSolution {
         char var;
         int power;
 
-        public ExprItem(long a, char var,int power) {
+        public ExprItem(long a, char var, int power) {
             this.a = a;
             this.var = var;
             this.power = power;
@@ -135,31 +150,29 @@ public class KataSolution {
 
         @Override
         public String toString() {
-            boolean flag = false;
-
-            if (this.a == 1) flag = true;
-
-            if (this.power == 0){
-                return String.format("%d",this.a);
-            }else if (this.power == 1){
-                if (flag == true){
-                    return String.format("%c",this.var);
-                }else {
-                    return String.format("%d%c",this.a,this.var);
+            if (this.power == 0) {
+                return String.format("%d", this.a);
+            } else if (this.power == 1) {
+                if (this.a == 1) {
+                    return String.format("%c", this.var);
+                } else {
+                    return String.format("%d%c", this.a, this.var);
                 }
 
-            }else {
-                if (flag == true){
-                    return String.format("%c^%d",this.var,this.power);
-                }else {
-                    return String.format("%d%c^%d",this.a,this.var,this.power);
+            } else {
+                if (this.a == 1) {
+                    return String.format("%c^%d", this.var, this.power);
+                } else if (this.a == -1) {
+                    return String.format("-%c^%d", this.var, this.power);
+                } else {
+                    return String.format("%d%c^%d", this.a, this.var, this.power);
                 }
             }
         }
     }
 
     public static void main(String[] args) {
-        String result = expand("(y+5)^15");
+        String result = expand("(-n-12)^5");
         System.out.println(result);
     }
 }
