@@ -2,7 +2,7 @@ package com.wangyao2221.cn.test;
 
 import static org.junit.Assert.assertEquals;
 
-import com.wangyao2221.cn.WrongFinder;
+import com.wangyao2221.cn.Finder;
 import org.junit.Test;
 
 public class PathFinderTest {
@@ -31,10 +31,10 @@ public class PathFinderTest {
                  ".....W\n"+
                  "....W.";
 
-        assertEquals(a, 4,  WrongFinder.pathFinder(a));
-        assertEquals(b, -1, WrongFinder.pathFinder(b));
-        assertEquals(c, 10,  WrongFinder.pathFinder(c));
-        assertEquals(d, -1, WrongFinder.pathFinder(d));
+        assertEquals(a, 4,  Finder.pathFinder(a));
+        assertEquals(b, -1, Finder.pathFinder(b));
+        assertEquals(c, 10,  Finder.pathFinder(c));
+        assertEquals(d, -1, Finder.pathFinder(d));
     }
 }
 

@@ -3,7 +3,7 @@ package com.wangyao2221.cn;
 /**
  * 错误的解法！！！用BFS
  */
-public class WrongFinder {
+public class FinderWrong {
 //    public static int pathFinder(String maze) {
 //        String[] mazeArr = maze.split("\n");
 //        int row = mazeArr.length;
