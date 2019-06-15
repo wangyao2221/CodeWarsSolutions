@@ -6,11 +6,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 import java.util.*;
-import java.util.stream.*;
-import java.util.function.Predicate;
-import java.awt.Point;
-
-import org.junit.runners.JUnit4;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
