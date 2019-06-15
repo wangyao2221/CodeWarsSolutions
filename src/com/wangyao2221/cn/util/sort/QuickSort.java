@@ -24,10 +24,12 @@ public class QuickSort {
             while (low < high && arr[high] >= povit){
                 high--;
             }
+
             arr[low] = arr[high];
             while (low < high && arr[low] <= povit){
                 low++;
             }
+
             arr[high] = arr[low];
         }
 

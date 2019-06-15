@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/SampleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/test/SampleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -98,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -731,7 +729,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559899879686</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Quick Sort">
+      <created>1560609887336</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1560609887336</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -791,7 +796,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6427614" visible="true" weight="0.08100559" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.641948" visible="true" weight="0.25161988" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49061662" weight="0.47346368" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,7 +804,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49731544" weight="0.15449437" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.35723862" side_tool="true" visible="true" weight="0.08099352" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.35805202" side_tool="true" visible="true" weight="0.25161988" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49597856" weight="0.3282123" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -821,7 +826,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="'RevRot'" />
     <MESSAGE value="'Add .gitignore'" />
     <MESSAGE value="'Remove out folder'" />
     <MESSAGE value="'MexicanWave'" />
@@ -846,7 +850,8 @@
     <MESSAGE value="'Path Finder 一个超时'" />
     <MESSAGE value="'Path Finder #2: shortest path 一定要把访问记录在入队时标记！！！不然会重复访问很多格子，时间爆掉'" />
     <MESSAGE value="'Psychic 很有意思的题啊，突然意识到这就是Java动态修改的原理'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'Psychic 很有意思的题啊，突然意识到这就是Java动态修改的原理'" />
+    <MESSAGE value="Quick Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1259,7 +1264,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -1279,8 +1284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
