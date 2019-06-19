@@ -3,18 +3,13 @@ package com.wangyao2221.cn.util.sort;
 /**
  * 可以考虑并发
  */
-public class BubbleSort implements Sort {
+public class BubbleSort implements IArraySort {
     @Override
-    public int[] sort(int[] arr,Order order) {
+    public int[] sort(int[] arr) {
         for (int i = arr.length - 1; i > 0; i--) {
             for (int j = 0; j < i; j++) {
                 int a = arr[j];
                 int b = arr[j + 1];
-
-                if (order == Order.DESC){
-                   a = -a;
-                   b = -b;
-                }
 
                 if (a > b){
                     swap(arr,j,j + 1);

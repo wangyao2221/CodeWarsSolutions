@@ -1,8 +1,8 @@
 package com.wangyao2221.cn.util.sort;
 
-public class InsertionSort implements Sort {
+public class InsertionSort implements IArraySort {
     @Override
-    public int[] sort(int[] arr, Order order) {
+    public int[] sort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
 
         }

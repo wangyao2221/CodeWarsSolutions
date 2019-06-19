@@ -1,8 +1,12 @@
 package com.wangyao2221.cn.util.sort;
 
-public class HeapSort {
+import java.util.Arrays;
 
-    public void sort(int[] arr) {
+public class HeapSort implements IArraySort {
+    @Override
+    public int[] sort(int[] sourceArray) {
+        int[] arr = Arrays.copyOf(sourceArray, sourceArray.length);
+
         int len = arr.length;
 
         buildMaxHeap(arr, len);
@@ -12,6 +16,8 @@ public class HeapSort {
             len--;
             heapify(arr, 0, len);
         }
+
+        return arr;
     }
 
     private void buildMaxHeap(int[] arr, int len) {
@@ -46,8 +52,8 @@ public class HeapSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {5,2,7,3,6,1,4};
-        new HeapSort().sort(arr);
+        int[] sourceArray = {5,2,7,3,6,1,4};
+        int[] arr = new HeapSort().sort(sourceArray);
 
         for (int i : arr) {
             System.out.println(i);
