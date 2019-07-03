@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="175">
+              <caret line="54" selection-start-line="54" selection-end-line="59" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -64,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="198">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -360,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.graph.Dijkstra" />
       <module name="CodeWarsSolutions" />
@@ -400,12 +399,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.Maze" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.sort.QuickSort" />
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyao2221.codewars.*" />
+          <option name="PATTERN" value="com.wangyao2221.codewars.util.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,8 +412,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.sort.QuickSort" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.sort.Test" />
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
@@ -443,19 +442,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Maze" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.Dijkstra" />
       <item itemvalue="JUnit.SampleTests.test" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Dijkstra" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="JUnit.SampleTests.test" />
-        <item itemvalue="Application.Maze" />
       </list>
     </recent_temporary>
   </component>
@@ -513,7 +512,7 @@
       <workItem from="1561469899533" duration="221000" />
       <workItem from="1561558458731" duration="25000" />
       <workItem from="1561863087078" duration="1893000" />
-      <workItem from="1562162816054" duration="22000" />
+      <workItem from="1562162816054" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1557412449095</created>
@@ -788,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561470056319</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="commit">
+      <created>1562162871985</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1562162871986</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -824,7 +830,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162729000" />
+    <option name="totallyTimeSpent" value="162806000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -878,7 +884,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="'MexicanWave'" />
     <MESSAGE value="'Decompose(Unsolved)'" />
     <MESSAGE value="'Decompose'" />
     <MESSAGE value="'Add Decompose Comments'" />
@@ -903,7 +908,8 @@
     <MESSAGE value="Quick Sort" />
     <MESSAGE value="Heap Sort" />
     <MESSAGE value="Modify package name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify package name" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1248,13 +1254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/graph/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1286,13 +1285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/IArraySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/SkyScrapers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2750">
@@ -1320,10 +1312,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/IArraySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="54" selection-start-line="54" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="198">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
