@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f3fef2a-3b97-4a37-9d0d-6a0fed8f6322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/EqSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,37 +23,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/EqSystem.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="682">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Maze.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/graph/Dijkstra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2178">
-              <caret line="100" selection-start-line="100" selection-end-line="102" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="440">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SampleTests.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/SampleTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
@@ -66,43 +53,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="88">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/IArraySort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="66">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="373">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/SkyScrapers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2750">
               <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
@@ -114,14 +110,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Psychic.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/Psychic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,15 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/entity/CounterExample.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/vehicle/frame/Frame.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/BinaryArrayToNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Sort.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/BubbleSortTest.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/MetroTest.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/Metro.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/test/DescendingOrderTest.java" />
@@ -206,13 +191,23 @@
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/EqSystem.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/EqSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/IArraySort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/HeapSortImpl.java" />
         <option value="$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/graph/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
+    <option name="x" value="65" />
+    <option name="y" value="25" />
+    <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -223,7 +218,78 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
+              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
+              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
+              <item name="com.wangyao2221.cn" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wangyao2221" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wangyao2221" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="codewars" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wangyao2221" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="codewars" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CodeWarsSolutions" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWarsSolutions" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="wangyao2221" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="codewars" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sort" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,23 +316,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
-              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="CodeWarsSolutions" type="58d84e3e:PackageViewProjectNode" />
-              <item name="CodeWarsSolutions" type="616d4139:PackageViewModuleNode" />
-              <item name="com.wangyao2221.cn" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +360,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.graph.Dijkstra" />
+      <module name="CodeWarsSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyao2221.codewars.util.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.sort.HeapSort" />
+      <module name="CodeWarsSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyao2221.codewars.util.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.util.sort.HeapSort" />
       <module name="CodeWarsSolutions" />
@@ -325,11 +401,11 @@
       </method>
     </configuration>
     <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.Maze" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.Maze" />
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.*" />
+          <option name="PATTERN" value="com.wangyao2221.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,29 +414,14 @@
       </method>
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.util.sort.QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.util.sort.QuickSort" />
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.util.sort.*" />
+          <option name="PATTERN" value="com.wangyao2221.codewars.util.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWarsSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.RandomTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -369,12 +430,12 @@
       <module name="CodeWarsSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wangyao2221.cn.test.*" />
+          <option name="PATTERN" value="com.wangyao2221.codewars.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wangyao2221.cn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.cn.test.SampleTests" />
+      <option name="PACKAGE_NAME" value="com.wangyao2221.codewars.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyao2221.codewars.test.SampleTests" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -385,16 +446,16 @@
       <item itemvalue="Application.Maze" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.HeapSort" />
-      <item itemvalue="JUnit.RandomTest" />
+      <item itemvalue="Application.Dijkstra" />
       <item itemvalue="JUnit.SampleTests.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.HeapSort" />
         <item itemvalue="JUnit.SampleTests.test" />
         <item itemvalue="Application.Maze" />
-        <item itemvalue="JUnit.RandomTest" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +507,13 @@
       <workItem from="1560819157628" duration="596000" />
       <workItem from="1560842395666" duration="236000" />
       <workItem from="1560952174780" duration="2225000" />
-      <workItem from="1560956390158" duration="215000" />
+      <workItem from="1560956390158" duration="1854000" />
+      <workItem from="1560999974984" duration="2659000" />
+      <workItem from="1561092848957" duration="654000" />
+      <workItem from="1561469899533" duration="221000" />
+      <workItem from="1561558458731" duration="25000" />
+      <workItem from="1561863087078" duration="1893000" />
+      <workItem from="1562162816054" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="'first commit'">
       <created>1557412449095</created>
@@ -693,7 +760,35 @@
       <option name="project" value="LOCAL" />
       <updated>1560610316820</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Heap Sort">
+      <created>1560956625771</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1560956625772</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Heap Sort">
+      <created>1560956642581</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1560956642581</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Heap Sort">
+      <created>1560958231274</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1560958231274</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Modify package name">
+      <created>1561470056319</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1561470056319</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -729,7 +824,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155640000" />
+    <option name="totallyTimeSpent" value="162729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -744,7 +839,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13203754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -753,16 +848,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7856155" weight="0.25141242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78351206" weight="0.25139666" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49061662" weight="0.47346368" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865952" weight="0.3282123" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49515906" weight="0.32768363" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49731544" weight="0.15449437" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49463806" weight="0.32681563" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4966488" weight="0.30726257" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798658" weight="0.3286517" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.21438451" side_tool="true" visible="true" weight="0.24860336" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.21648793" side_tool="true" visible="true" weight="0.25139666" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="JProfiler" order="14" />
@@ -783,8 +878,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="'Add .gitignore'" />
-    <MESSAGE value="'Remove out folder'" />
     <MESSAGE value="'MexicanWave'" />
     <MESSAGE value="'Decompose(Unsolved)'" />
     <MESSAGE value="'Decompose'" />
@@ -808,13 +901,15 @@
     <MESSAGE value="'Path Finder #2: shortest path 一定要把访问记录在入队时标记！！！不然会重复访问很多格子，时间爆掉'" />
     <MESSAGE value="'Psychic 很有意思的题啊，突然意识到这就是Java动态修改的原理'" />
     <MESSAGE value="Quick Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort" />
+    <MESSAGE value="Heap Sort" />
+    <MESSAGE value="Modify package name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify package name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/RandomTest.java</url>
+          <url>file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/RandomTest.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="5" />
@@ -851,28 +946,14 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DescendingOrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SumSquaredDivisorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/TimeFormatterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/TimeFormatterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="12" column="35" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DecomposeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/DecomposeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
@@ -880,14 +961,14 @@
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/BuyCarTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/BuyCarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Kata.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1452">
           <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
@@ -897,7 +978,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/MorseCodeDecoder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/MorseCodeDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
@@ -907,14 +988,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TenMinWalk.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/TenMinWalk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/TimeFormatter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/TimeFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
@@ -925,7 +1006,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/MainTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/DigPowTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/DigPowTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -935,21 +1016,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/CountingDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/CountingDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DigPow.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/DigPow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/BinomialExpansion.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/BinomialExpansion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3850">
           <caret line="177" column="1" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
@@ -959,7 +1040,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/ExampleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/ExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -969,7 +1050,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/BinomialExpansionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/BinomialExpansionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
@@ -979,7 +1060,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/BinomialExpansionByHobovsky.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/BinomialExpansionByHobovsky.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
@@ -989,21 +1070,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SquareTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/SquareTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SolutionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/CountingDuplicatesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/CountingDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -1014,7 +1095,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/permutation_combinaton/Permutation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/permutation_combinaton/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
@@ -1026,21 +1107,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/PerfectPower.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/PerfectPower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/PhoneExampleTests.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/PhoneExampleTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/DuplicateEncode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/DuplicateEncode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
@@ -1103,7 +1184,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/PathFinderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/PathFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="138" column="48" selection-start-line="138" selection-start-column="48" selection-end-line="138" selection-end-column="48" />
@@ -1118,21 +1199,21 @@
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Queue.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/RandomTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/IntPart.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/IntPart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/FinderWrong.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/FinderWrong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1804">
           <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
@@ -1140,7 +1221,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/EqSystem.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Finder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/Finder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
@@ -1150,14 +1231,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/EqSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/EqSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Maze.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/Maze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2178">
           <caret line="100" selection-start-line="100" selection-end-line="102" selection-end-column="27" />
@@ -1167,7 +1248,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/test/SampleTests.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/graph/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/test/SampleTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
@@ -1177,35 +1272,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/IArraySort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="66">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/SkyScrapers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/SkyScrapers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2750">
           <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
@@ -1215,22 +1303,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/Psychic.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/Psychic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/cn/util/sort/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="373">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wangyao2221/codewars/util/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
